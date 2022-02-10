@@ -35,7 +35,7 @@ Both ITEM-DATE and DATE-PROPERTIES are used as, for example: an email may have b
 ## Allows user to set custom metadata "Source"
 Allows the user to set custom metadata in the field "Source", e.g. SITE 01 ITEM 01. For use with [Nuix Export To Evidence & Reports III](https://github.com/nicholasgcotton/NuixExportToEvidence-Reports)
 
-# Email Cluster Tagging V1
+# Nuix Email Chain Cluster Analysis v1.1
 This can be run as a script, but it's actually faster to do it in the GUI (use the script as a guide). 
 
 Creates a cluster of all emails with name "Email Cluster DATETIME"
@@ -48,8 +48,6 @@ Creates the following tags and puts the relevant items into each tag:
 
 Creates the following tag and puts all emails not dealt with above into it:
 - 08 Email-Unnecessary
-
-
 
 ## License
 
