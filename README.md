@@ -17,7 +17,7 @@ For the script(s) to function you must:
 - 04 Non-Reviewable Data
 - 04 Non-Reviewable Data|System Files
 - 04 Non-Reviewable Data|No Data
-- 04 Non-Reviewable Data|Unreconised
+- 04 Non-Reviewable Data|Unrecognised
 - 04 Non-Reviewable Data|Logs
 - 04 Non-Reviewable Data|Microsoft ESE
 - 04 Non-Reviewable Data|INI Style Configuration File
