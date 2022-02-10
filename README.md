@@ -1,6 +1,14 @@
 # Nuix-Intake-Scripts
 Standard intake scripts for RCMP Nuix Intake
 
+## Installation
+For the script(s) to function you must: 
+- Download the script you want to use.
+- Download [NX.jar](https://github.com/Nuix/Nx)
+- Install both files to one of the Nuix scripts directories, on Windows, for example:
+  - %appdata%\Nuix\Scripts - User level script directory
+  - %programdata%\Nuix\Scripts - System level script directory
+
 # Default Quality Assurance and Tags V3
 ## Creates Default Tags
 - 01 Evidence
