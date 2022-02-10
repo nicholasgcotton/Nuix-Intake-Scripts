@@ -57,6 +57,13 @@ Creates the following tags and puts the relevant items into each tag:
 Creates the following tag and puts all emails not dealt with above into it:
 - 08 Email-Unnecessary
 
+## Notes:
+1) This script requires the NX.jar: https://github.com/Nuix/Nx
+2) This script uses Nuix API calls documented: https://download.nuix.com/releases/desktop/stable/docs/en/scripting/api/index.html
+
+## Thanks
+- This script would not have been possible without the support of the @Nuix tech support team, and all the code samples on https://github.com/Nuix.
+
 ## License
 
 Copyright [2020-2022] Nicholas Grant Cotton
