@@ -43,7 +43,7 @@ javax.swing.JOptionPane.showMessageDialog(nil, "This script will create the foll
 04 Non-Reviewable Data 
 04 Non-Reviewable Data-System Files
 04 Non-Reviewable Data-No Data
-04 Non-Reviewable Data-Unreconised
+04 Non-Reviewable Data-Unrecognised
 04 Non-Reviewable Data-Logs
 04 Non-Reviewable Data-Microsoft ESE
 04 Non-Reviewable Data-INI Style Configuration File
