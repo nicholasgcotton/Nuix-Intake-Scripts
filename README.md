@@ -3,6 +3,8 @@ Standard intake scripts for RCMP Nuix Workstation Intake, including "Default Qua
 
 The purpose of these scripts is to automate parts of the Nuix Workstation intake that I always do the same way.
 
+For a list of other useful Nuix scripts, see https://github.com/nicholasgcotton/Nuix-Scripts
+
 ## Installation
 For the script(s) to function you must: 
 - Download the script you want to use.
