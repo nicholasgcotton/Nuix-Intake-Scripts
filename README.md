@@ -1,5 +1,7 @@
 # Nuix-Intake-Scripts
-Standard intake scripts for RCMP Nuix Intake
+Standard intake scripts for RCMP Nuix Workstation Intake, including "Default Quality Assurance and Tags v3" and "Email Chain Cluster Analysis v 1.1".
+
+The purpose of these scripts is to automate parts of the Nuix Workstation intake that I always do the same way.
 
 ## Installation
 For the script(s) to function you must: 
@@ -9,7 +11,7 @@ For the script(s) to function you must:
   - %appdata%\Nuix\Scripts - User level script directory
   - %programdata%\Nuix\Scripts - System level script directory
 
-# Default Quality Assurance and Tags V3
+# Default Quality Assurance and Tags v3
 ## Creates Default Tags
 - 01 Evidence
 - 02 Not Evidence
